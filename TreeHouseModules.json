@@ -1,22 +1,22 @@
 {
-  "SchemaVersion": 1,
   "Modules": [
     {
-      "ApiVersion": 1,
-      "Version": "0.9.44",
+      "File": "Modules/xxtools.dll",
+      "RepositoryURL": "https://github.com/Joyyxxx/Joyyxxx",
+      "InternalName": "MotionCameraLocal",
+      "Sha256": "2606443040A5D77A159DE72A0DECB754FB06DCC10233195BF91B428446D7E681",
       "Localization": {
         "Source": {
-          "Title": "XXtools",
-          "Description": "移速、视距、传送、副本助手与日常。"
+          "Description": "移速、视距、传送、副本助手与日常。",
+          "Title": "XXtools"
         },
         "Translations": {}
       },
-      "Sha256": "3F1F9D437BDB15B80832386AE4B58CE5265777A61697F8C42829BE1DC4667C24",
-      "Author": "Joyy",
-      "RepositoryURL": "https://github.com/Joyyxxx/Joyyxxx",
+      "Version": "0.9.45",
+      "ApiVersion": 1,
       "MinimumOmniVersion": "1.1.9.1",
-      "InternalName": "MotionCameraLocal",
-      "File": "Modules/xxtools.dll"
+      "Author": "Joyy"
     }
-  ]
+  ],
+  "SchemaVersion": 1
 }
