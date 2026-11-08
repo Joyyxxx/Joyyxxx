@@ -3,13 +3,13 @@
   "Modules": [
     {
       "ApiVersion": 1,
-      "Sha256": "4891FCB8083C79BC513D3249AA52416546C26F1202E08270EE10B23E4C03602A",
+      "Sha256": "7B9A55F4C7AA4D9F3531695072D23533793AA3D6C43EDB199D1B956F0C74B716",
       "RepositoryURL": "https://github.com/Joyyxxx/Joyyxxx",
       "File": "Modules/xxtools.dll",
       "InternalName": "MotionCameraLocal",
       "Author": "Joyy",
       "MinimumOmniVersion": "1.1.9.1",
-      "Version": "0.9.74",
+      "Version": "0.9.75",
       "Localization": {
         "Translations": {},
         "Source": {
