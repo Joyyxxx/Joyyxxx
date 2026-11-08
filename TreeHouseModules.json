@@ -2,7 +2,9 @@
   "SchemaVersion": 1,
   "Modules": [
     {
-      "InternalName": "MotionCameraLocal",
+      "Sha256": "93D4F6DAEC7072D869C4E73B9BCECFC7870A61730A89DFCDFE6F5272FF8DF88A",
+      "ApiVersion": 1,
+      "Version": "0.9.47",
       "Localization": {
         "Source": {
           "Title": "XXtools",
@@ -10,13 +12,11 @@
         },
         "Translations": {}
       },
-      "ApiVersion": 1,
-      "Sha256": "655A514D621EE258111EAC97A288BB5DAD17B4B1F37A56F893898DB296DE54DE",
-      "RepositoryURL": "https://github.com/Joyyxxx/Joyyxxx",
       "File": "Modules/xxtools.dll",
-      "MinimumOmniVersion": "1.1.9.1",
-      "Version": "0.9.46",
-      "Author": "Joyy"
+      "RepositoryURL": "https://github.com/Joyyxxx/Joyyxxx",
+      "InternalName": "MotionCameraLocal",
+      "Author": "Joyy",
+      "MinimumOmniVersion": "1.1.9.1"
     }
   ]
 }
