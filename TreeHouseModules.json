@@ -3,8 +3,8 @@
   "Modules": [
     {
       "MinimumOmniVersion": "1.1.9.1",
-      "Version": "0.9.64",
-      "Sha256": "DC7E94B9057ADE581E3EA62F24E77B4578F91FF9135DEC4C6FFECE34A590155B",
+      "Version": "0.9.65",
+      "Sha256": "F359BE0864F1489B4A2A6153C007E41449B481F1C03BC831B6CCB051E5DD76BA",
       "InternalName": "MotionCameraLocal",
       "File": "Modules/xxtools.dll",
       "Author": "Joyy",
